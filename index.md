@@ -12,7 +12,9 @@
 ```
 <MY IMAGE>
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
